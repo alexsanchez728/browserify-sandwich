@@ -1,6 +1,5 @@
 {
-    "veggies": [
-        {
+    "veggies": [{
             "category": "veggies",
             "Lettuce": 0.50
         },
@@ -15,6 +14,6 @@
         {
             "category": "none",
             "No Veggies": 0
-        },
+        }
     ]
 }

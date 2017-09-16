@@ -1,6 +1,5 @@
 {
-    "condiments": [
-        {
+    "condiments": [{
             "category": "condiments",
             "Mayo": 0.25
         },
@@ -15,6 +14,6 @@
         {
             "category": "none",
             "No Condiments": 0
-        },
+        }
     ]
 }

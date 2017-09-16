@@ -1,6 +1,5 @@
 {
-    "breads": [
-        {
+    "breads": [{
             "category": "bread",
             "Wheat": 2.00
         },
@@ -15,6 +14,6 @@
         {
             "category": "none",
             "No Bread": 0
-        },
+        }
     ]
 }

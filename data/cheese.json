@@ -1,6 +1,5 @@
 {
-    "cheese": [
-        {
+    "cheese": [{
             "category": "cheese",
             "Chedder": 0.50
         },
@@ -15,6 +14,6 @@
         {
             "category": "none",
             "No Cheese": 0
-        },
+        }
     ]
 }
