@@ -1,0 +1,20 @@
+{
+    "cheese": [
+        {
+            "category": "cheese",
+            "Chedder": 0.50
+        },
+        {
+            "category": "cheese",
+            "Swiss": 0.50
+        },
+        {
+            "category": "cheese",
+            "Caciocavallo Podolico": 10.00
+        },
+        {
+            "category": "none",
+            "No Cheese": 0
+        },
+    ]
+}

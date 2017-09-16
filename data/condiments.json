@@ -1,0 +1,20 @@
+{
+    "condiments": [
+        {
+            "category": "condiments",
+            "Mayo": 0.25
+        },
+        {
+            "category": "condiments",
+            "Hummus": 0.75
+        },
+        {
+            "category": "condiments",
+            "Olive Oil": 0.50
+        },
+        {
+            "category": "none",
+            "No Condiments": 0
+        },
+    ]
+}

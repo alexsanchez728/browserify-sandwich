@@ -1,0 +1,20 @@
+{
+    "breads": [
+        {
+            "category": "bread",
+            "Wheat": 2.00
+        },
+        {
+            "category": "bread",
+            "Rye": 2.75
+        },
+        {
+            "category": "bread",
+            "Broule": 5.75
+        },
+        {
+            "category": "none",
+            "No Bread": 0
+        },
+    ]
+}

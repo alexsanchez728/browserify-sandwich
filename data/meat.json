@@ -1,0 +1,20 @@
+{
+    "meats": [
+        {
+            "category": "meats",
+            "Turkey": 2.00
+        },
+        {
+            "category": "meats",
+            "Ham": 3.00
+        },
+        {
+            "category": "meats",
+            "Boudin": 5.50
+        },
+        {
+            "category": "none",
+            "No Meat": 0
+        },
+    ]
+}

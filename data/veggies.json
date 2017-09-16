@@ -1,0 +1,20 @@
+{
+    "veggies": [
+        {
+            "category": "veggies",
+            "Lettuce": 0.50
+        },
+        {
+            "category": "veggies",
+            "Tomatoes": 0.50
+        },
+        {
+            "category": "veggies",
+            "Taro": 5.00
+        },
+        {
+            "category": "none",
+            "No Veggies": 0
+        },
+    ]
+}
