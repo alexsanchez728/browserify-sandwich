@@ -4,4 +4,5 @@ const doItAll = require("./data");
 const activeEvents = require("./events");
 
 doItAll.initializer();
-// activeEvents.sandwichOptionEvents();
+activeEvents.getCheckboxClick();
+activeEvents.showFinalSandwich();
